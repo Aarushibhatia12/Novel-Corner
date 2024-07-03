@@ -1,0 +1,1 @@
+Novel Corner is a simple Book Store website made using MERN stack (MongoDB, Express, React, Node.js). Store the names and information of your favourite novels and books. This is my first full stack website ;)
